@@ -127,7 +127,7 @@ const capFirst = (array) => {
 
     // Create a named function () that takes in a string, looks at each character in the string, and logs the index of the first instance of A, E, I, O, or U.
 
-// a) Create a test with expect statements for each of the variables provided.
+// a) Create a test with expect statements for each of the variables provided. 
 
 const vowelTester1 = "learn"
 // Expected output: 1
